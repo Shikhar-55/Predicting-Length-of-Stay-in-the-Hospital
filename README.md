@@ -4,7 +4,7 @@ The length of stay (LOS) in a hospital or medical facility is a significant indi
 
 Table of Contents
 
-Introduction
+##Introduction
 
 Motivation
 
