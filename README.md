@@ -1,5 +1,5 @@
 # Predicting-Length-of-Stay-in-the-Hospital
-Length of Stay Prediction
+
 The length of stay (LOS) in a hospital or medical facility is a significant indicator of disease severity, mortality, and resource allocation. Our project aims to provide an initial prediction of the length of stay for new patients using a combination of numerical and categorical data. By leveraging data mining algorithms, we can achieve reliable predictions and mitigate the impact of uncertainty.
 
 Table of Contents
